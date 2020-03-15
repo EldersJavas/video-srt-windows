@@ -13,6 +13,7 @@
 - [Gitee](https://gitee.com/641453620/video-srt-windows)
 
 ## 文档目录
+- ### [用户须知](https://github.com/EldersJavas/videosrt_doc/tree/master/notice)
 - ### [FAQ问题合集](https://github.com/EldersJavas/videosrt_doc/tree/master/faq)
 - ### [用户使用教程](https://github.com/EldersJavas/videosrt_doc/tree/master/Tutorial)
 - ### 二次开发（编撰中）
